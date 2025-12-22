@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CN"
-title                    : "Ze Fu"
+title                    : "Haojie Wen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "fuze_1.png"
-  name             : "Ze Fu"
+  name             : "Haojie Wen"
   pronouns         : # example: "he/his"  
-  bio              : "Cognitive Neuroscience, Culture, and Ecology"
-  location         : "HuangGang, HuBei, China"
-  employer         : "École Normale Supérieure"
+  bio              : "Cognitive Neuroscience"
+  location         : "Yuanping, Shanxi, China"
+  employer         : "Beijing Normal University"
   uri              : # URL
   email            : "zefu1997@gmail.com" 
 
