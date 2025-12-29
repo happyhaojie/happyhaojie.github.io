@@ -29,3 +29,19 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 
 ---
 # Effects of language on other cognitive functions
+
+Language
+
+## key article
+**Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf)**
+
+- **Cross-species;**
+
+- **One-sentence information:** Although 
+
+
+**Pulvinar Response Profiles and Connectivity Patterns to Object Domains** [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN)
+
+- **fMRI;**
+
+- **One-sentence information:** Visual 
