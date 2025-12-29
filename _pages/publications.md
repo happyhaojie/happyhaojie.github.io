@@ -11,13 +11,14 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 
 Publications and Manuscripts
 ======
+First / Co-first Author
+Wen, H.#, Wang, K.#, Li, Y., Chen, H., Bao, P.*, Bi, Y.* (In preparation). When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex.
+Fan, Z.#, Wen, H.#, Wang, X., Bi, Y. (In preparation). A putaminal computation linking language and tool hierarchies. 
+Wen, H., & Bi, Y. (2025). Visual cortex through the lens of language. Cognitive Neuroscience, 1-3.
+Hao, G.#, Wen, H.#, Guo, L.#, Chen, Y., Bi, Y.*, & Yu, S.* (2025). Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language. arXiv preprint arXiv:2505.22146.
+Wen, H., Wang, D., & Bi, Y. (2024). Processing language partly shares neural genetic basis with processing tools and body parts. Eneuro, 11(8).
+Wen, H., Song, Y., Liang, M., Zhang, P., Wang, X.*, & Bi, Y. (2023). Pulvinar response profiles and connectivity patterns to object domains. Journal of Neuroscience, 43(5), 812-826.
+Wen, H., Xu, T., Wang, X., Yu, X.*, & Bi, Y.* (2022). Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques. Neuroimage, 258, 119339.
 
-**Fu, Z.**, Chu, Y., Zhang, T., Li, Y., Wang, X., & Bi, Y. (Under Review). Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate.  
-
-**Fu, Z.**, Chen, H., Liu, Z., Sun, M., Liu, Z., & Bi, Y. (2025). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. *Communications Psychology*, 3(2). https://doi.org/10.1038/s44271-024-00183-5
-
-**Fu, Z.**, Wang, X., Wang, X., Yang, H., Wang, J., Wei, T., ... & Bi, Y. (2023). Different computational relations in language are captured by distinct brain systems. *Cerebral Cortex*, 33(4), 997-1013. https://doi.org/10.1093/cercor/bhac117
-
-Tian, S., Chen, L., Wang, X., Li, G., **Fu, Z.**, Ji, Y., ... & Bi, Y. (2024). Vision matters for shape representation: Evidence from sculpturing and drawing in the blind. *Cortex*, 174, 241-255. https://doi.org/10.1016/j.cortex.2024.02.016
-
-Tian, S., Chen, Y., **Fu, Z.**, Wang, X., & Bi, Y. (2023). Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams. *Cerebral Cortex*, 33(15), 9280-9290. https://doi.org/10.1093/cercor/bhad200
+Contributing Author
+Zhu, Z.#, Yang, H.#, Wen, H., Hung, J., Hu, Y., Bi, Y.*, & Yu, X.* (2025). Innate network mechanisms of temporal pole for semantic cognition in neonatal and adult twin studies. Nature Communications, 16(1), 3835.
