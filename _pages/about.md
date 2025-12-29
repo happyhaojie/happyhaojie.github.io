@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Ze Fu (付泽).I am curious about how people make sense of the world using their internal mental models - the knowledge, beliefs and cultural products obtained through both biological and cultural evolution processes. To explore this, I combine insights and methods from different research fields like cognitive neuroscience, cultural evolution, and human behavioral ecology.
+I am Haojie Wen（温浩杰）. I am curious about how human cognitive capacities and their neural bases emerged, interacted, and evolved to give rise to the modern human brain. This overarching interest motivates my research on more specific questions concerning two core human capacities: the neural basis of tool use and the ways in which language shapes other cognitive functions. I address these questions by combining functional and structural MRI with behavioral experimental approaches, and by studying diverse populations, including macaques (cross-species comparisons), twins (genetic modeling), deaf individuals with different early sign-language exposure, and patients with focal brain lesions. I have also begun preliminary explorations in computational modeling and text analysis.
 
-I am currently a postdoctoral researcher at Institut Jean Nicod, École Normale Supérieure – PSL (Paris), working with [Nicolas Baumard](https://nicolasbaumards.org/). I completed my Ph.D. in Cognitive Neuroscience at Beijing Normal University, advised by [Yanchao Bi](https://www.psy.pku.edu.cn/bilab/). Here is my [CV](/files/fuze_cv.pdf).
+I am currently a postdoctoral researcher at the School of Systems Science, Beijing Normal University, working with Yanchao Bi (Concept Lab: https://www.psy.pku.edu.cn/bilab/
+) and Dahui Wang. I received my Ph.D. in Cognitive Neuroscience from the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, under the supervision of Yanchao Bi. Here is my [CV](/files/HaojieWen_cv).
 
-Outside work, I enjoy films, literature, running, and long conversations while walking. I like all forms of stories—one of the most remarkable human inventions.
+Outside of work, I enjoy reading; attending live performances (e.g., theatre, Kunqu opera, and stand-up comedy); visiting museums and art galleries; cooking (especially Shanxi noodles); and having long conversations while walking. I am fascinated by all kinds of aesthetic experiences.
 
 ---
 
