@@ -7,23 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+## 2025 年度总结
+在写……
 
-{% for year in posts_by_year %}
-{% if year.name == "2025" or year.name == "2026" %}
-
-## {{ year.name }}
-{% if year.name == "2025" %}
-**Annual Summary**
-{% else %}
-**Ongoing Records**
-{% endif %}
-
-{% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
-
-{% for month in posts_by_month %}
-### {{ month.name }}
-{% endfor %}
-
-{% endif %}
-{% endfor %}
+## 2026 年 1 月
+期待 ing ✨
