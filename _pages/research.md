@@ -16,7 +16,7 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 ## key article
 **Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf)**
 
-- **Cross-species; resting state functional connectivity; network**
+- **Cross-specie comparison; resting state functional connectivity; network**
 
 - **One-sentence information:** Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
 
@@ -33,15 +33,20 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 Language
 
 ## key article
-**Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf)**
+**Processing language partly shares neural genetic basis with processing tools and body parts [(Wen, 2024, eNeuro)](/files/Wen_2024_eNeuro.pdf)**
 
-- **Cross-species;**
+- **Twin genetic model; language and tool; fMRI**
 
-- **One-sentence information:** Although 
+- **One-sentence information:** A 
 
+**When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex** [(In preparation)]
 
-**Pulvinar Response Profiles and Connectivity Patterns to Object Domains** [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN)
+- **Cross-specie comparison; vision models; large-scale behavioral ratings**
 
-- **fMRI;**
+- **One-sentence information:** V
 
-- **One-sentence information:** Visual 
+**A putaminal computation linking language and tool hierarchies** [(In preparation)]
+
+- **deaf individuals; brain-lesioned patients; language experience; multi-model MRI**
+
+- **One-sentence information:** V 
