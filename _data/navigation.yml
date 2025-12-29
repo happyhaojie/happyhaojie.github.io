@@ -6,8 +6,7 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+
 
   - title: "Research"
     url: /research/
@@ -16,9 +15,12 @@ main:
  #  url: /year-archive/
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
     
-  - title: "Misc"
-    url: /misc/
+  - title: "Blog"
+    url: /year-archive/
 
   #- title: "Teaching"
   #  url: /teaching/    
