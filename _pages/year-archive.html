@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Year in Review"
+title: "Research Log"
 author_profile: true
 ---
 
@@ -10,7 +10,14 @@ author_profile: true
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in posts_by_year %}
+{% if year.name == "2025" or year.name == "2026" %}
+
 ## {{ year.name }}
+{% if year.name == "2025" %}
+**Annual Summary**
+{% else %}
+**Ongoing Records**
+{% endif %}
 
 {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
 
@@ -18,4 +25,5 @@ author_profile: true
 ### {{ month.name }}
 {% endfor %}
 
+{% endif %}
 {% endfor %}
