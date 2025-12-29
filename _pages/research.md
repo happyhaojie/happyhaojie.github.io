@@ -33,7 +33,7 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 Language
 
 ## key article
-**Processing language partly shares neural genetic basis with processing tools and body parts [(Wen, 2024, eNeuro)](/files/Wen_2024_eNeuro.pdf)**
+**Processing language partly shares neural genetic basis with processing tools and body parts** [(Wen, 2024, eNeuro)](/files/Wen_2024_eNeuro.pdf)
 
 - **Twin genetic model; language and tool; fMRI**
 
