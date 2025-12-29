@@ -13,8 +13,8 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 ## key article
 **Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques**
 
-cross-species; resting state functional connectivity; network
+Cross-species; resting state functional connectivity; network
 
-one-sentence information: Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
+**one-sentence information:** Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
 
 # Effects of language on other cognitive functions
