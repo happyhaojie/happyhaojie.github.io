@@ -16,14 +16,14 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 
 **Cross-species; resting state functional connectivity; network**
 
-**one-sentence information:** Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
+**One-sentence information:** Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
 
 
 **Pulvinar Response Profiles and Connectivity Patterns to Object Domains** [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN)
 
 **fMRI; lateralization; task-based dynamic causal modeling**
 
-**one-sentence information:** Visual processing of tools and animals engages distinct pulvinar patterns, with tools showing robust left-lateralized activity and animals bilateral clusters; these domain-specific responses reflect intrinsic pulvinar-cortical connectivity, with a pulvinar-to-right-amygdala pathway supporting animal perception and a pulvinar-to-parietal pathway facilitating tool perception.
+**One-sentence information:** Visual processing of tools and animals engages distinct pulvinar patterns, with tools showing robust left-lateralized activity and animals bilateral clusters; these domain-specific responses reflect intrinsic pulvinar-cortical connectivity, with a pulvinar-to-right-amygdala pathway supporting animal perception and a pulvinar-to-parietal pathway facilitating tool perception.
 
 ---
 # Effects of language on other cognitive functions
