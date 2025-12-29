@@ -12,14 +12,13 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Blog"
-    url: /year-archive/
-
-  - title: "Misc"
-    url: /misc/
-
+ # - title: "Blog"
+ #  url: /year-archive/
   - title: "Publications"
     url: /publications/
+    
+  - title: "Misc"
+    url: /misc/
 
   #- title: "Teaching"
   #  url: /teaching/    
