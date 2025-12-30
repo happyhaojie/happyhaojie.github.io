@@ -7,6 +7,7 @@ author_profile: true
 
 My current research primarily focuses on two distinctive and crucial human cognitive capacities—tool use and language—with the aim of understanding how they are represented in the brain, how they interact with each other, and how they influence other cognitive functions.
 
+
 ---
 
 # Neural bases of tool use
@@ -27,7 +28,9 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 
 - **One-sentence information:** Visual processing of tools and animals engages distinct pulvinar patterns, with tools showing robust left-lateralized activity and animals bilateral clusters; these domain-specific responses reflect intrinsic pulvinar-cortical connectivity, with a pulvinar-to-right-amygdala pathway supporting animal perception and a pulvinar-to-parietal pathway facilitating tool perception.
 
+
 ---
+
 # Effects of language on other cognitive functions
 
 Language is a fundamental cognitive capacity that supports communication and thought, and its relationship with other cognitive functions has long been a central topic of debate. 
