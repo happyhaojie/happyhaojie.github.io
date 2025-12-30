@@ -11,7 +11,7 @@ My current research primarily focuses on two distinctive and crucial human cogni
 
 # Neural bases of tool use
 
-Tool use is a fundamental human cognitive ability and a key distinction between humans and other animals. Previous studies have identified a dedicated tool-processing network in the human brain. We further found that the neural network supporting tool processing spans both the cortex and the pulvinar, forming a cortico-subcortical brain network [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN). This tool-related network appears to be human-specific: it is already present in the neonatal brain but absent in the mature macaque brain [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf). Moreover, in collaboration with the Computational Group, we found that dimensional representations can effectively guide tool selection in AI models [(Hao, 2025, preprint)](/files/Hao_2025_preprint.pdf).
+Tool use is a fundamental human cognitive ability and a key distinction between humans and other animals. Previous studies have identified a dedicated tool-processing network in the human brain. We further found that the neural network supporting tool processing spans both the cortex and the pulvinar, forming a cortico-subcortical brain network [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN.pdf). This tool-related network appears to be human-specific: it is already present in the neonatal brain but absent in the mature macaque brain [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf). Moreover, in collaboration with the Computational Group, we found that dimensional representations can effectively guide tool selection in AI models [(Hao, 2025, preprint)](/files/Hao_2025_preprint.pdf).
 
 ## key article
 **Brain intrinsic connection patterns underlying tool processing in human adults are present in neonates and not in macaques [(Wen, 2022, NeuroImage)](/files/Wen_2022_NeuroImage.pdf)**
@@ -21,7 +21,7 @@ Tool use is a fundamental human cognitive ability and a key distinction between 
 - **One-sentence information:** Although homologous regions establish an intrinsic tool network in human neonates, this network is absent in macaques; its topology closely mirrors that of adults, with premotor-parietal connectivity playing a central role in its formation.
 
 
-**Pulvinar Response Profiles and Connectivity Patterns to Object Domains** [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN)
+**Pulvinar Response Profiles and Connectivity Patterns to Object Domains** [(Wen, 2023, J. Neurosci.)](/files/Wen_2023_JN.pdf)
 
 - **fMRI; lateralization; task-based dynamic causal modeling**
 
