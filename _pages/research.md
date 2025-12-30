@@ -41,16 +41,16 @@ Does language influence more fundamental cognitive functions, such as vision? We
 
 - **Twin genetic model; language and tool; fMRI**
 
-- **One-sentence information:** A 
+- **One-sentence information:** The bilateral basal ganglia exhibited a shared genetic basis for language, tool, and body-part processing.
 
-**When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex** [(In preparation)]
+**When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex** (In preparation)
 
 - **Cross-specie comparison; vision models; large-scale behavioral ratings**
 
-- **One-sentence information:** V
+- **One-sentence information:** Language supervision uniquely modulates human visual cortex, distinguishing it from other primates.
 
-**A putaminal computation linking language and tool hierarchies** [(In preparation)]
+**A putaminal computation linking language and tool hierarchies** (In preparation)
 
-- **deaf individuals; brain-lesioned patients; language experience; multi-model MRI**
+- **brain-lesioned patients; deaf individuals; language experience; multi-modal MRI**
 
-- **One-sentence information:** V 
+- **One-sentence information:** Hierarchical structuring in language and tool use relies on a shared striatal computation: putaminal damage in brain-injured patients selectively impaired hierarchical language comprehension and goal-directed tool use, whereas delayed early language experience in congenitally deaf adults led to reduced hierarchical tool use and diminished putaminal encoding.
