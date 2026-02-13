@@ -53,7 +53,7 @@ Does language influence more fundamental cognitive functions, such as vision? We
 
 - **One-sentence information:** Language supervision uniquely modulates human visual cortex, distinguishing it from other primates.
 
-**Causal evidence for a shared mechanism linking language and tool use via the putamen** [(Under review)](/files/Fan_2026_preprint.pdf)
+**Causal evidence for a shared mechanism linking language and tool use via the putamen** [(Fan, 2026, preprint)](/files/Fan_2026_preprint.pdf)
 
 - **Brain-lesioned patients; deaf individuals; language experience; multi-modal MRI**
 
