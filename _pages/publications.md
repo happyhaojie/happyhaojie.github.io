@@ -13,7 +13,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 ### First / Co-first Author
 
 - **Wen, H.#**, Wang, K.#, Li, Y., Chen, H., Bao, P.*, Bi, Y.* (In preparation). *When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex.*
-- Fan, Z.#, **Wen, H.#**, Wang, X., Bi, Y. (In preparation). *A putaminal computation linking language and tool hierarchies.*
+- Fan, Z.#, **Wen, H.#**, Han, Z., Wang, X., Bi, Y. (In preparation). *Causal evidence for a shared mechanism linking language and tool use via the putamen.*
 - **Wen, H.**, & Bi, Y. (2025). *Visual cortex through the lens of language.* Cognitive Neuroscience, 1–3.
 - Hao, G.#, **Wen, H.#**, Guo, L.#, Chen, Y., Bi, Y.*, & Yu, S.* (2025). *Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language.* arXiv:2505.22146.
 - **Wen, H.**, Wang, D., & Bi, Y. (2024). *Processing language partly shares neural genetic basis with processing tools and body parts.* eNeuro, 11(8).
