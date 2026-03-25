@@ -47,7 +47,7 @@ Does language influence more fundamental cognitive functions, such as vision? We
 
 - **One-sentence information:** The bilateral basal ganglia exhibited a shared genetic basis for language, tool, and body-part processing.
 
-**When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex** (In preparation)
+**When Vision Learns to Speak: Language-Linked Modulation Diverges Between Human and Macaque Visual Cortex** (Under Review)
 
 - **Cross-specie comparison; vision models; large-scale behavioral ratings**
 
